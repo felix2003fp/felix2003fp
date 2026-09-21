@@ -17,7 +17,7 @@ Based near Barcelona, Spain.
 ## 📊 Featured Projects
 
 ### 🏰 Peninsular War Simulation with Multi Agent Reinforcement Learning (Final Degree Project)
-A multidisciplinary project combining history, mathematics, data science, and artificial intelligence. The core objective is to use Multi-Agent Reinforcement Learning to train agents representing the two factions of the Peninsular War (1808–1814), with the aim of reproducing the historical conflict as faithfully as possible.
+A multidisciplinary project combining history, data science, and artificial intelligence. The core objective is to use Multi-Agent Reinforcement Learning to train agents representing the two factions of the Peninsular War (1808–1814), with the aim of reproducing the historical conflict as faithfully as possible.
 
 **Technologies:** Python · Gymnasium · Scikit-learn · XGBoost · Graphs
 
